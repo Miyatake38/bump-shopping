@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Tour TEE（白）",
+    "price": 3500
+  },
+  {
+    "name": "Tour TEE（黒）",
+    "price": 3500
+  },{
+  "name": "Tour TEE（スミクロ）",
+  "price": 3500
+},
+  {
+    "name": "Zip up Hoodie",
+    "price": 10000
+  },
+  {
+    "name": "Blouson",
+    "price": 10000
+  },
+  {
+    "name": "Kids TEE（HOMESICK）",
+    "price": 2500
+  },
+  {
+    "name": "Sports Towel（ORANGE）",
+    "price": 2500
+  },
+  {
+  "name": "Sports Towel（BLACK）",
+  "price": 2500
+  },
+  {
+    "name": "Cap（HOMESICK）",
+    "price": 3300
+  },
+  {
+    "name": "Shoulder Bag",
+    "price": 3500
+  },
+  {
+    "name": "Socks（白）",
+    "price": 1500
+  },
+  {
+    "name": "Socks（黒）",
+    "price": 1500
+  },
+  {
+    "name": "Shoelaces Set",
+    "price": 1500
+  },
+  {
+    "name": "Clear Sticker Sheet",
+    "price": 300
+  },
+  {
+    "name": "Sticker Set",
+    "price": 700
+  },
+  {
+    "name": "Key Ring",
+    "price": 700
+  },
+  {
+    "name": "Bandanna",
+    "price": 1200
+  },
+  {
+    "name": "Smartphone Shoulder Strap",
+    "price": 2000
+  },
+  {
+    "name": "Pocket Tee",
+    "price": 4000
+  },
+  {
+    "name": "Long Sleeve TEE（黒．ニコル）",
+    "price": 5000
+  },
+  {
+    "name": "Long Sleeve TEE（生成．王様）",
+    "price": 5000
+  },
+  {
+    "name": "Kids TEE（王様）",
+    "price": 3000
+  },
+  {
+    "name": "Cap（王様）",
+    "price": 3500
+  },
+  {
+    "name": "Stamp",
+    "price": 1000
+  },
+  {
+    "name": "Clip Set",
+    "price": 1200
+  },
+  {
+    "name": "Bandage",
+    "price": 1200
+  },
+  {
+    "name": "Clear Pouch",
+    "price": 2000
+  },
+  {
+    "name": "Accessory Tray",
+    "price": 2000
+  },
+  {
+    "name": "Shopping Bag",
+    "price": 1000
+  },
+  {
+    "name": "Charity Band",
+    "price": 500
+  }
+]
